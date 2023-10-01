@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011518096955",
+    "project_id": "mygogo-app",
+    "storage_bucket": "mygogo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011518096955:android:8bdfb6039bc80d496e3e1e",
+        "android_client_info": {
+          "package_name": "com.mygogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011518096955-bckujp44kgrpvfop4qkbar6s6sq8ol3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4SmdNt9nfSGHAi8jae7z6jNWrjfHoCpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011518096955-bckujp44kgrpvfop4qkbar6s6sq8ol3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

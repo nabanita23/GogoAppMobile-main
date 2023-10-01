@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "steoates.autoimport",
+    "streetsidesoftware.code-spell-checker",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "wayou.vscode-todo-highlight",
+    "pmneo.tsimporter",
+    "msjsdiag.vscode-react-native"
+  ]
+}

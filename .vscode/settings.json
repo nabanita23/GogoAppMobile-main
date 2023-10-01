@@ -1,0 +1,40 @@
+{
+  "explorer.confirmDragAndDrop": false,
+  "tsimporter.filesToScan": ["*/.ts", "*/.tsx", "*/.vue"],
+  "tabnine.experimentalAutoImports": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "search.exclude": { "**/node_modules": true },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "git.confirmSync": false,
+  "editor.suggestSelection": "first",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "git.ignoreRebaseWarning": true,
+  "workbench.editor.showTabs": true,
+  "editor.guides.bracketPairs": true,
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Night Owl",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.fontSize": 13,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "files.associations": {
+    "__locale": "c",
+    "ios": "c",
+    "filesystem": "c"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.codeActionsOnSave": {
+      "source.addMissingImports": true,
+      "source.organizeImports": true,
+      "source.sortImports": true,
+      "source.fixAll.eslint": true,
+      "source.fixAll": true,
+      "tslint.autoFixOnSave": true
+    }
+  },
+  "cSpell.words": ["aadhar"]
+}
